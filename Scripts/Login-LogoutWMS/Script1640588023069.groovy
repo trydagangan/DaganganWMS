@@ -35,8 +35,6 @@ WebUI.click(findTestObject('Object Repository/Login-Logout/Page_Login/button_Mas
 
 WebUI.setText(findTestObject('Object Repository/Login-Logout/Page_Login/input_username_username'), 'try.dagangan')
 
-WebUI.click(findTestObject('Object Repository/Login-Logout/Page_Login/div_CMS                                user_819df7'))
-
 WebUI.setEncryptedText(findTestObject('Object Repository/Login-Logout/Page_Login/input_kata sandi_password'), 'tzH6RvlfSTg=')
 
 WebUI.click(findTestObject('Object Repository/Login-Logout/Page_Login/button_Masuk'))
